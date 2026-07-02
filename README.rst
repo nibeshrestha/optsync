@@ -1,9 +1,7 @@
-libhotstuff
------------
+# Optsync
 
-libhotstuff is a general-purpose BFT state machine replication library with
-modularity and simplicity, suitable for building hybrid consensus
-cryptocurrencies.
+This repository contains the reference implementation of [OptSync](https://dl.acm.org/doi/10.1145/3372297.3417284). The codebase is designed to be lightweight, efficient, and easy to modify or benchmark, but it is not intended for production deployment.
+
 
 Features
 ========
